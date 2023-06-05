@@ -12,7 +12,7 @@ Since the docs on the memory map are terrible, here is a quick overview:
 * sram (program ram) starts at 0x20000000
 * peripheral control memory starts at 0x40000000
 
-Source: https://github.com/openwch/ch32v307/blob/7ec2dd5a66cef60f88519a52d55230fc678093be/c%2b%2b/use%20mrs%20create%20c%2b%2b%20project-example/ch32v307vct6/peripheral/inc/ch32v30x.h#l1118
+Source: https://github.com/openwch/ch32v307/blob/7ec2dd5a66cef60f88519a52d55230fc678093be/EVT/EXAM/SRC/Peripheral/inc/ch32v30x.h#L1120
 
 ### Documents
 * http://www.wch-ic.com/downloads/CH32FV2x_V3xRM_PDF.html (more useful)
