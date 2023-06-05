@@ -15,8 +15,9 @@ Since the docs on the memory map are terrible, here is a quick overview:
 Source: https://github.com/openwch/ch32v307/blob/7ec2dd5a66cef60f88519a52d55230fc678093be/c%2b%2b/use%20mrs%20create%20c%2b%2b%20project-example/ch32v307vct6/peripheral/inc/ch32v30x.h#l1118
 
 ### Documents
-* http://www.wch-ic.com/downloads/CH32FV2x_V3xRM_PDF.html
-* http://www.wch-ic.com/downloads/CH32V307DS0_PDF.html
+* http://www.wch-ic.com/downloads/CH32FV2x_V3xRM_PDF.html (more useful)
+    * chapter 10.3.1 lists GPIO registers
+* http://www.wch-ic.com/downloads/CH32V307DS0_PDF.html (less useful)
 * http://www.wch-ic.com/downloads/QingKeV4_Processor_Manual_PDF.html
 * https://github.com/openwch/ch32v307/tree/main -- Github containing links to docs and schematics
 
