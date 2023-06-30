@@ -25,9 +25,8 @@ Source: https://github.com/openwch/ch32v307/blob/7ec2dd5a66cef60f88519a52d55230f
 ## Setup
 Make sure you have llvm and clang installed.
 Then install [wlink](https://github.com/ch32-rs/wlink).
-**DISCLAIMER: wlink is not my project. This is just my fork, which fixes a bug when interacting with the CH32V307V-R1-1v0 board. See [#16](https://github.com/ch32-rs/wlink/issues/16) for details. Big thanks to the folks at ch32-rs for developing such an amazing tool!**
 
-    cargo install --git https://github.com/lennyerik/wlink
+    cargo install --git https://github.com/ch32-rs/wlink
 
 ## Building and running the examples
 ### Assembling
